@@ -1,4 +1,4 @@
-![Theroetical Experiment](https://github.com/user-attachments/assets/1976af1a-6a14-4607-a273-db3a3117a25c)
+![Theroetical Experiment](https://github.com/user-attachments/assets/f97f1de1-8f54-4ab5-a9fa-8f476075c036)
 
 > Plan, develop and simulate theoretical experiments.
 
