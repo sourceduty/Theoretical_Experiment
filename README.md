@@ -8,6 +8,10 @@
 
 In addition to experiment planning, Theoretical Experiment provides insights into data interpretation and potential optimization strategies for hypothetical results. It considers ethical implications, methodological limitations, and relevant scientific principles to ensure experiments are well-informed and responsibly designed. Whether users need help fine-tuning a research question or exploring the broader implications of their experimental results, this GPT is equipped to assist in all phases of theoretical research. This makes it an ideal tool for both students and professionals aiming to develop a comprehensive understanding of experimental design and analysis within a variety of scientific contexts.
 
+```
+Create a scientific evidence-proofing simulation.
+```
+
 #
 ### Experimental Scientific Evidence-Proofing Simulations
 
