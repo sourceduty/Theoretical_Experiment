@@ -51,6 +51,18 @@ Scientific evidence-proofing simulations work by generating predictions based on
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Theoretical Modelling](https://github.com/sourceduty/Theoretical_Modelling)
+<br>
+[Problem Solved](https://github.com/sourceduty/Problem_Solved)
+<br>
+[New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
+<br>
+[Theory of Norms](https://github.com/sourceduty/Theory_of_Norms)
+<br>
+[Theory](https://github.com/sourceduty/Theory)
+<br>
+[Science](https://github.com/sourceduty/Science)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
