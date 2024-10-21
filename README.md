@@ -11,7 +11,6 @@ In addition to experiment planning, Theoretical Experiment provides insights int
 #
 ### Experimental Scientific Evidence-Proofing Simulations
 
-```
 1. Theoretical Framework Setup
 
 The first step in this type of simulation-based evidence-proofing is defining the theoretical model that underpins the hypothesis—in this case, string theory. The theory provides the foundation for the entire framework, defining the mathematical structures and relationships (such as vibrating strings, higher dimensions, or quantum gravity effects) that the simulation aims to explore. This theoretical framework must be carefully translated into computational terms, which often requires simplifying complex equations or making approximations that maintain the core predictions of the theory while making it computationally feasible to simulate. For string theory, this may include reducing the number of dimensions or simplifying the behavior of strings in certain scenarios, while still capturing their most critical physical behaviors.
@@ -27,7 +26,6 @@ Once the simulation generates the predicted results, the next step is comparing 
 4. Iterative Refinement
 
 Given that the results of simulations may not always perfectly align with real-world data, this framework is often iterative. If discrepancies between the simulation and observation are found, the theoretical model can be refined. For example, new terms may be added to the equations to account for unknown variables or different approximations may be made. Similarly, the simulations may be run with different initial conditions or parameters to explore the space of possible outcomes. This continuous process of refinement helps to increase the accuracy of predictions and improve the alignment between theory and observation, offering an evolving approach to testing complex, high-level theories like string theory.
-```
 
 #
 ### Evolved Framework
