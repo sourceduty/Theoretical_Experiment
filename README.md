@@ -72,6 +72,8 @@ Utilizing theoretical modeling templates involves applying these frameworks to s
 [Theory](https://github.com/sourceduty/Theory)
 <br>
 [Science](https://github.com/sourceduty/Science)
+<br>
+[Theoretical Template](https://github.com/sourceduty/Theoretical_Template)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
